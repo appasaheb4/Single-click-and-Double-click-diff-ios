@@ -1,0 +1,16 @@
+PODS:
+  - ImageScrollView (1.5)
+
+DEPENDENCIES:
+  - ImageScrollView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ImageScrollView
+
+SPEC CHECKSUMS:
+  ImageScrollView: 22b3ad3f215a227403eee376fd226559516390b4
+
+PODFILE CHECKSUM: 8737a60c1f1c5a0a5b96979d551b9f006e3ee115
+
+COCOAPODS: 1.5.3
